@@ -1,0 +1,11 @@
+body {
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+ul {
+    list-style-type: none;
+}
+
